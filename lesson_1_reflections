@@ -1,0 +1,32 @@
+Q:  How did viewing a diff between two different versions of a file help you see the bug that was introduced?
+
+  A: Instead of having to parse the code line by line there was a quick depiction of the code that was in error. The diff or fc command prompts greatly expedited the process of finding potential errors in the code.
+
+Q:  How can having access to all previous versions of a file help you as a programmer in the long run?
+
+  A: It provides you with the ability to better iterate through versions and avoid mistakes that you have made in the past.
+  It also gives a better idea of the progress that you have made and, particularly as a novice or beginning programmer, this can be helpful to avoid frustration from perceived lack of progress.
+
+
+Q:  What do you think the pros and cons of manually choosing when to create a commit, like you do in Git, vs having them automatically saved, like in Google Docs?
+
+  A: When manually committing, you always run the risk of leaving too much time between save states and possibly losing data or
+  committing too large of a file. However, with practice and expertise, these commits will enable you to appropriately save your
+  data and structure the file so that it is concise and easily deciphered by other programmers on the project. Automatically saving
+  a file exposes you to far too many commits.
+
+Q: How can you use the commands git log and git diff to view the history of your files?
+
+  A: Git log will show you all of the commits that you have made to your repository and diff will allow you to compare different versions
+  in an easily manageable way.
+
+Q: How might using version control make you more confident to make changes that could break something?
+
+  A: Version Control allows you to compare previous versions and by doing so there can be a clear demonstration of what broke the your
+  application. It also retains working versions so that you can iterate through your mistakes. You can explore pretty significant changes
+  in your code without breaking your entire code base.
+
+Q: Now that you have your terminal set up, what do you want to use Git for?
+
+  A: I am interested in using Git to optimize my work flow and hopefully make things more efficient.
+  
