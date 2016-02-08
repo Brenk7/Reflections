@@ -1,0 +1,10 @@
+Q: What happens when you initialize a git repository? Why do you need to do it?
+
+  A: Init will create a blank repository that you can then add your files to. It is similar to creating any other initial file
+  structure.
+
+Q: How is the working directory different from the staging area and the repository? What value do you think it offers?
+
+    A: The working directory shows all the files that are located in the respective directory. All of the files don't necessarily have to
+    be associated with the repository or git at all. The staging area is an intermediate step that allows you to review what you are adding
+    prior to making a commit to the repository.
